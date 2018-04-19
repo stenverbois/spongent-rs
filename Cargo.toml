@@ -1,0 +1,11 @@
+[package]
+name = "spongent"
+version = "0.1.0"
+description = "Rust implementation of the SPONGENT cryptogtaphic functions."
+authors = ["Sten Verbois <stenverbois@gmail.com>"]
+
+readme = "README.md"
+license = "MIT/Apache-2.0"
+
+[dependencies]
+constant_time_eq = "0.1"
